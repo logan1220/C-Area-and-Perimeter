@@ -1,0 +1,19 @@
+c:\users\n00895918\documents\visual studio 2015\Projects\Project1LSirdevan\Project1LSirdevan\bin\Debug\Project1LSirdevan.exe.config
+C:\Users\n00895918\Desktop\Project1LSirdevan\Project1LSirdevan\bin\Debug\Project1LSirdevan.exe.config
+C:\Users\n00895918\Desktop\Project1LSirdevan\Project1LSirdevan\bin\Debug\Project1LSirdevan.exe
+C:\Users\n00895918\Desktop\Project1LSirdevan\Project1LSirdevan\bin\Debug\Project1LSirdevan.pdb
+C:\Users\n00895918\Desktop\Project1LSirdevan\Project1LSirdevan\obj\Debug\Project1LSirdevan.csprojResolveAssemblyReference.cache
+C:\Users\n00895918\Desktop\Project1LSirdevan\Project1LSirdevan\obj\Debug\Project1LSirdevan.Form1.resources
+C:\Users\n00895918\Desktop\Project1LSirdevan\Project1LSirdevan\obj\Debug\Project1LSirdevan.Properties.Resources.resources
+C:\Users\n00895918\Desktop\Project1LSirdevan\Project1LSirdevan\obj\Debug\Project1LSirdevan.csproj.GenerateResource.Cache
+C:\Users\n00895918\Desktop\Project1LSirdevan\Project1LSirdevan\obj\Debug\Project1LSirdevan.exe
+C:\Users\n00895918\Desktop\Project1LSirdevan\Project1LSirdevan\obj\Debug\Project1LSirdevan.pdb
+C:\Users\Logan\Desktop\Project1LSirdevan\Project1LSirdevan\bin\Debug\Project1LSirdevan.exe.config
+C:\Users\Logan\Desktop\Project1LSirdevan\Project1LSirdevan\obj\Debug\Project1LSirdevan.exe
+C:\Users\Logan\Desktop\Project1LSirdevan\Project1LSirdevan\obj\Debug\Project1LSirdevan.pdb
+C:\Users\Logan\Desktop\Project1LSirdevan\Project1LSirdevan\bin\Debug\Project1LSirdevan.exe
+C:\Users\Logan\Desktop\Project1LSirdevan\Project1LSirdevan\bin\Debug\Project1LSirdevan.pdb
+C:\Users\Logan\Desktop\Project1LSirdevan\Project1LSirdevan\obj\Debug\Project1LSirdevan.csprojResolveAssemblyReference.cache
+C:\Users\Logan\Desktop\Project1LSirdevan\Project1LSirdevan\obj\Debug\Project1LSirdevan.Form1.resources
+C:\Users\Logan\Desktop\Project1LSirdevan\Project1LSirdevan\obj\Debug\Project1LSirdevan.Properties.Resources.resources
+C:\Users\Logan\Desktop\Project1LSirdevan\Project1LSirdevan\obj\Debug\Project1LSirdevan.csproj.GenerateResource.Cache
